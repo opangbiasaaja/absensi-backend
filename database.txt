@@ -1,0 +1,5 @@
+
+# File database absensi (contoh)
+Ahmad, X A, Hadir, 0, 2025-04-10
+Budi, X B, Sakit, 3, 2025-04-10
+Citra, X A, Izin Keperluan, 5, 2025-04-10
